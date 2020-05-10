@@ -8,3 +8,4 @@ Instruction
 
 
 My UI and UX implementation is not the best. but the core of the system is the best. Its so fast by using VueJS.
+I use Solid Principle for Laravel. This is the best way to consume 3rd party API to the system. Enjoy :D
